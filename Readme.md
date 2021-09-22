@@ -9,5 +9,8 @@ Solution: Use Propagation rules of project to inherit also these properties.
 under Fnd0PropertyGroupNames we can add a new security group
 ![image](https://user-images.githubusercontent.com/76819369/134428331-5f9048e0-b148-463f-b6e9-61087e238aff.png)
 
+Under propagation rules we also add this:
+![image](https://user-images.githubusercontent.com/76819369/134428914-f8bf9bd8-83bf-4e33-919f-1cbff78a974c.png)
+
 
 when ever a project assignment happens the attributes object_name and object_desc from Item revision get synchroized to the Item.
